@@ -1,0 +1,29 @@
+[
+    {
+        "name": "KnoxReadsTM",
+        "type": "reddit",
+        "language": "en",
+        "edition": {
+            "type": "Videos",
+            "content": "mix"
+        }
+    },
+    {
+        "name": "AnotherName",
+        "type": "reddit",
+        "language": "es",
+        "edition": {
+            "type": "Videos",
+            "content": "news"
+        }
+    },
+    {
+        "name": "ThirdEntry",
+        "type": "reddit",
+        "language": "fr",
+        "edition": {
+            "type": "Videos",
+            "content": "sports"
+        }
+    }
+]

@@ -1,0 +1,21 @@
+# short_maker
+sudo apt-get install librubberband-dev
+sudo apt-get install ffmpeg
+
+# Config Python 3
+pip install pydub
+pip install moviepy==1.0.3
+pip install yt-dlp==2025.3.27
+pip install Pillow==9.5.0
+pip install whisper-timestamped==1.15.8
+
+# pip install cloudinary==1.42.2
+# pip install coqui-tts==0.25.1
+# pip install google-genai==1.16.0
+# pip install pyrubberband
+# pip install demucs
+# pip install torchaudio
+# pip install openai
+# pip install psutil
+# pip install fake-useragent concurrent-log-handler
+# pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
